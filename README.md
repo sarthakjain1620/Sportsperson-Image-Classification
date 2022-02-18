@@ -28,4 +28,4 @@ Technologies used in this project,
 
 6.Python flask for http server
 
-7. HTML/CSS/Javascript for UI
+7.HTML/CSS/Javascript for UI
