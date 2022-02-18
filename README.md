@@ -12,7 +12,7 @@ This is a classification project in machine learning. We classify sportsperson f
 5.Lionel Messi
 
 I have used dataset of around 70 images for each of the sportsperson which is provided in the dataset folder. Using opencv haarcascades feature, I have tried to detect 2 eyes and a face for each of the image. For ease, I created a function which goes through all images and if the image detects two eyes i.e. if the face is clearly visible, it will select that image and will crop the image which is then saved to the local folder. After this, I have manually examined the folder for any of the unwanted images.
-After the data cleaning process is done, I then trained the model using logistic regression where I achieved 80% precision score. Using some images from the dataset as test images, I achieved around 90% precision score.
+After the data cleaning process is done, I then trained the model using SVM where I achieved 0.77 precision score. I also used gridsearchCV to find the best model among svm, random forest and logistic regression, out of which SVM gives the best score. Using some images from the dataset as test images, I achieved around 0.75 precision score.
 
 Technologies used in this project,
 
