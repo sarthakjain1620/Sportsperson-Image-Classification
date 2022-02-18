@@ -1,6 +1,6 @@
 # Sportsperson-Image-Classification
 ![classification_image](https://user-images.githubusercontent.com/83235872/154677412-4d3fe23c-6391-474d-9cd6-a9979d58396a.jpg)
-This is a classification project in machine learning. We classify sportsperson from different areas. The 5 sporstperson which are used here are-
+This is a classification project in machine learning. We classify sportsperson from different sports. The 5 sporstperson which are used here are-
 
 1.Maria Sharapova
 
